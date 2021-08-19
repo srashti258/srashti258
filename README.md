@@ -1,6 +1,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-srashti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srashti-bhangre-b4920b201)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Srashti-yellow)](https://stackoverflow.com/users/3687251/srashti-)
 
 I'm
 Full Stack Solution Architect
